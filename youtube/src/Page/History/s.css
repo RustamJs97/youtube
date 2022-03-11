@@ -1,0 +1,16 @@
+.image-gallery-image{
+    width: 1000px !important;
+    height: 90vh;
+    padding: 0 !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image-gallery-thumbnails{
+width: 120% !important;
+padding: 0 !important;
+overflow: scroll !important;
+
+}
+.sc-iUKqMP{
+    width: 100% !important;
+}
